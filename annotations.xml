@@ -7,6 +7,9 @@
 <Annotation about="*.themarkup.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.platformer.news/*"><Label name="_include_"></Label></Annotation>    
 <Annotation about="*.quantamagazine.org/*"><Label name="_include_"></Label></Annotation>    
+   <!-- Business -->
+<Annotation about="*.ssir.org/*"><Label name="_include_"></Label></Annotation>    
+<Annotation about="*.hbr.org/*"><Label name="_include_"></Label></Annotation>    
   <!-- Medicine -->
 <Annotation about="*.emedicine.medscape.com/*"><Label name="_include_"></Label></Annotation>
     <!-- Industry associations -->
